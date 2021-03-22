@@ -1,0 +1,286 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600&display=swap');
+body {
+    /* страница */
+    width: 1300px;
+    height: 1789px;
+background: #EDEAFF;
+}
+#ss{
+    position: absolute;
+width: 1169px;
+height: 1789px;
+left: 98px;
+top: 0px;
+
+background: #FFFFFF;
+}
+#glzag{
+    position: absolute;
+width: 586px;
+height: 33px;
+left: 292px;
+top: 45px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 27px;
+line-height: 33px;
+}
+.zag{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+}
+.text{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+}
+#qq1{
+    position: absolute;
+    width: 141px;
+    height: 22px;
+    left: 99px;
+    top: 195px;
+    
+    
+}
+#slor{
+    position: absolute;
+width: 185px;
+height: 29px;
+left: 99px;
+top: 153px;
+}
+#ff1{
+    position: absolute;
+    width: 970px;
+    height: 58px;
+    left: 99px;
+    top: 229px;
+}
+#df1{
+    position: absolute;
+width: 1169px;
+height: 0px;
+left: 0px;
+top: 115.5px;
+
+border: 1px solid #000000;
+}
+#sam{
+    position: absolute;
+    width: 170px;
+    height: 29px;
+    left: 99px;
+    top: 300px;
+}
+#qq2{
+    position: absolute;
+    width: 141px;
+    height: 20.31px;
+    left: 99px;
+    top: 344px;
+    
+}
+#ff2{
+    position: absolute;
+    width: 970px;
+    height: 28px;
+    left: 99px;
+    top: 372px;
+}
+#ind{
+    position: absolute;
+    width: 448px;
+    height: 30px;
+    left: 99px;
+    top: 413px;
+}
+#qq3{
+    position: absolute;
+width: 88px;
+height: 45px;
+left: 99px;
+top: 455px;
+
+}
+#ff3{
+    position: absolute;
+    width: 970px;
+    height: 53px;
+    left: 99px;
+    top: 513px;
+}
+#usk{
+    position: absolute;
+    width: 252px;
+    height: 29px;
+    left: 99px;
+    top: 578px;
+}
+#qq4{
+    position: absolute;
+    width: 134px;
+    height: 45px;
+    left: 99px;
+    top: 620px;
+}
+#ff4{
+    position: absolute;
+    width: 970px;
+    height: 60px;
+    left: 99px;
+    top: 678px;
+}
+#rad{
+    position: absolute;
+    width: 251px;
+    height: 29px;
+    left: 99px;
+    top: 750px;
+}
+#qq5{
+    position: absolute;
+width: 150px;
+height: 59px;
+left: 99px;
+top: 792px;
+
+}
+#ff5{
+    position: absolute;
+    width: 970px;
+    height: 61px;
+    left: 99px;
+    top: 863px;
+}
+#qq6{
+    position: absolute;
+width: 72px;
+height: 54px;
+left: 99px;
+top: 936px;
+}
+#qq7{
+ position: absolute;
+width: 162px;
+height: 50px;
+left: 99px;
+top: 1047px;
+}
+#dd1{
+    position: absolute;
+    width: 585px;
+    height: 23px;
+    left: 99px;
+    top: 1003px;
+    
+
+}
+#ff6{
+    position: absolute;
+width: 234px;
+height: 29px;
+left: 99px;
+top: 7790px;
+}
+#dd2{
+    position: absolute;
+    width: 225px;
+    height: 29px;
+    left: 99px;
+    top: 1110px;
+    
+}
+#ff7{
+    position: absolute;
+    width: 970px;
+    height: 30px;
+    left: 99px;
+    top: 1151px;
+}
+#dd3{
+    position: absolute;
+    width: 187px;
+    height: 29px;
+    left: 99px;
+    top: 1193px;
+}
+#ff8{
+    position: absolute;
+    width: 970px;
+    height: 59px;
+    left: 99px;
+    top: 1235px;
+}
+#dd4{
+    position: absolute;
+    width: 195px;
+    height: 29px;
+    left: 99px;
+    top: 1306px;
+    
+}
+#ff9{
+    position: absolute;
+    width: 389px;
+    height: 87px;
+    left: 99px;
+    top: 1347px;
+}
+#qq8{
+    position: absolute;
+width: 92px;
+height: 50px;
+left: 99px;
+top: 1417px;
+}
+#dd5{
+    position: absolute;
+    width: 331px;
+    height: 29px;
+    left: 99px;
+    top: 1480px;
+}
+#qq9{
+    position: absolute;
+width: 99px;
+height: 54.66px;
+left: 99px;
+top: 1521px;
+}
+#ff10{
+    position: absolute;
+width: 120px;
+height: 29px;
+left: 99px;
+top: 11902px;
+}
+#dd6{
+    position: absolute;
+    width: 343px;
+    height: 29px;
+    left: 99px;
+    top: 1588px;
+}
+#qq10{
+    position: absolute;
+width: 413px;
+height: 50px;
+left: 99px;
+top: 1630px;
+
+}
+#ff11{
+    position: absolute;
+    width: 970px;
+    height: 61px;
+    left: 99px;
+    top: 1693px;
+}

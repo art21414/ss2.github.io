@@ -1,0 +1,593 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600&display=swap');
+body {
+    /* страница */
+    width: 1300px;
+    height: 10239px;
+background: #EDEAFF;
+} 
+a {
+    text-decoration: none;
+    display: inline-block;
+    transition: .3s ease-in-out;
+    color: #000000;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+ }
+ 
+ /*первая ссылка*/
+ .ssillki {
+    color: #0000FF;
+    letter-spacing: 2px;
+    border-bottom: 2px solid transparent;
+    border-top: 2px solid transparent;
+ }
+ .ssilki:hover {
+    border-bottom: 2px solid #0000FF;
+    border-top: 2px solid #0000FF;
+ }
+ 
+
+#ss{
+/* начальный экран */
+position: absolute;
+width: 1169px;
+height: 693px;
+margin-left:7%;
+margin-right:7%;
+top: 0px;
+background: #FFFFFF;
+}
+#magnit{
+    /* магнит */
+position: absolute;
+width: 528px;
+height: 335px;
+left: 99px;
+top: 109px;
+}
+#text{
+    /* Магнетизм: основные формулы, определения, примеры */
+position: absolute;
+width: 328px;
+height: 132px;
+left: 299px;
+top: 205px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 34px;
+color: #000000;
+}
+.bb{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 27px;
+    line-height: 33px;
+}
+#cc1{
+    position: absolute;
+    width: 162px;
+    height: 33px;
+    left: 908px;
+    top: 137px;
+}
+#cc2{
+    position: absolute;
+    width: 145px;
+    height: 33px;
+    left: 925px;
+    top: 251px;
+}
+#cc3{
+    position: absolute;
+    width: 209px;
+    height: 33px;
+    left: 861px;
+    top: 365px;
+}
+#text2{
+    /* ЗА 20 минут вы изучите 15 основных разделов магнетизма */
+position: absolute;
+width: 459px;
+height: 109px;
+left: 611px;
+top: 495px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 34px;
+text-align: right;
+color: #938383;
+
+}
+#df1{
+    position: absolute;
+width: 1168px;
+height: 0px;
+left: 0px;
+top: 660px;
+
+border: 1px solid #000000;
+}
+#ss2{
+    position: absolute;
+    width: 1169px;
+    height: 10495px;
+    left: 102px;
+    top: 693px;
+    
+    background: #FFFFFF;
+}
+.zag{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+}
+#magn{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    position: absolute;
+width: 217px;
+height: 44px;
+left: 96px;
+top: 30px;
+}
+#soder{
+    position: absolute;
+width: 166px;
+height: 29px;
+left: 98px;
+top: 136px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+}
+.soderl{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+}
+#aa1{position: absolute;
+    width: 370px;
+    height: 22px;
+    left: 96px;
+    top: 204px;}
+#aa2{position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 96px;
+    top: 244px;}
+#aa3{position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 96px;
+    top: 284px;}
+#aa4{position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 96px;
+    top: 324px;}
+#aa5{position: absolute;
+    width: 330px;
+    height: 22px;
+    left: 96px;
+    top: 364px;}
+#aa6{position: absolute;
+    width: 330px;
+    height: 22px;
+    left: 96px;
+    top: 404px;}
+#aa7{position: absolute;
+    width: 530px;
+    height: 22px;
+    left: 96px;
+    top: 448px;}
+#aa8{position: absolute;
+    width: 310px;
+    height: 22px;
+    left: 97px;
+    top: 488px;}
+#aa9{position: absolute;
+    width: 330px;
+    height: 22px;
+    left: 660px;
+    top: 204px;}
+#aa10{position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 660px;
+    top: 244px;
+    }
+#aa11{position: absolute;
+    width: 210px;
+    height: 22px;
+    left: 660px;
+    top: 284px;}
+#aa12{position: absolute;
+    width: 450px;
+    height: 22px;
+    left: 660px;
+    top: 324px;
+    }
+#aa13{position: absolute;
+    width: 330px;
+    height: 22px;
+    left: 660px;
+    top: 364px;
+    }
+#aa14{position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 660px;
+    top: 404px;
+    }
+#aa15{position: absolute;
+    width: 270px;
+    height: 22px;
+    left: 660px;
+    top: 448px;
+    }
+#aa16{position: absolute;
+    width: 290px;
+    height: 22px;
+    left: 660px;
+    top: 488px;
+    }
+#magnvz{
+    position: absolute;
+width: 1006px;
+height: 36px;
+left: 95px;
+top: 572px;
+}
+#dd3{
+    position: absolute;
+width: 976px;
+height: 217px;
+left: 95px;
+top: 615px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+}
+#pole{
+  
+position: absolute;
+width: 976px;
+height: 734px;
+left: 95px;
+top: 1030px;
+}
+#ls1{
+    position: absolute;
+width: 976px;
+height: 244px;
+left: 95px;
+top: 1073px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+}
+#silalor{
+    position: absolute;
+width: 187px;
+height: 29px;
+left: 95px;
+top: 1849px;
+
+}
+#sila2{
+    position: absolute;
+width: 976px;
+height: 526px;
+left: 95px;
+top: 1886px;
+
+font-family:Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+}
+#cxz{
+    position: absolute;
+width: 174px;
+height: 27px;
+left: 95px;
+top: 2720px;
+}
+#amper{
+    position: absolute;
+width: 976px;
+height: 290px;
+left: 95px;
+top: 2756px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+}
+#linii{
+    position: absolute;
+width: 375px;
+height: 29px;
+left: 95px;
+top: 3140px;
+}
+#vvc{
+    position: absolute;
+width: 976px;
+height: 174px;
+left: 95px;
+top: 3178px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+}
+#ryy{
+    position: absolute;
+width: 976px;
+height: 290px;
+left: 95px;
+top: 3753px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+}
+#asd{
+    position: absolute;
+width: 384px;
+height: 29px;
+left: 95px;
+top: 4053px;
+}
+#odn{
+    position: absolute;
+width: 976px;
+height: 58px;
+left: 95px;
+top: 4091px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+}
+#ppo{
+    position: absolute;
+width: 655px;
+height: 29px;
+left: 95px;
+top: 4164px;
+}
+#sd3{
+    position: absolute;
+width: 976px;
+height: 841px;
+left: 95px;
+top: 4206px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+}
+#dd2{
+    
+position: absolute;
+width: 414px;
+height: 29px;
+left: 95px;
+top: 5380px;
+
+}
+#ds2{
+    position: absolute;
+width: 976px;
+height: 406px;
+left: 95px;
+top: 5420px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+}
+#non{
+    position: absolute;
+width: 480px;
+height: 29px;
+left: 95px;
+top: 5920px;
+}
+#eds{
+    position: absolute;
+width: 976px;
+height: 377px;
+left: 95px;
+top: 5960px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;}
+#pravilo{
+    position: absolute;
+width: 210px;
+height: 58px;
+left: 95px;
+top: 6766px;
+
+}
+#pravilo2{
+    position: absolute;
+width: 976px;
+height: 116px;
+left: 95px;
+top: 6810px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+}
+#mpotok{
+    position: absolute;
+width: 233px;
+height: 29px;
+left: 95px;
+top: 6960px;
+}
+#mpotok2{
+    position: absolute;
+width: 976px;
+height: 203px;
+left: 95px;
+top: 7000px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+}
+#zake{
+    position: absolute;
+width: 549px;
+height: 29px;
+left: 95px;
+top: 7287px;
+}
+#zake2{
+    position: absolute;
+width: 976px;
+height: 87px;
+left: 95px;
+top: 7327px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+}
+#vihr{
+    
+position: absolute;
+width: 410px;
+height: 29px;
+left: 95px;
+top: 7660px;
+
+}
+#vihr2{
+    position: absolute;
+width: 976px;
+height: 174px;
+left: 95px;
+top: 7704px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+}
+#ind{
+    position: absolute;
+width: 202px;
+height: 29px;
+left: 95px;
+top: 7916px;
+}
+#ind2{
+    position: absolute;
+width: 976px;
+height: 435px;
+left: 95px;
+top: 7958px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+}
+#yavl{
+    position: absolute;
+width: 316px;
+height: 29px;
+left: 95px;
+top: 8595px;
+}
+#yavl2{
+    position: absolute;
+width: 976px;
+height: 377px;
+left: 95px;
+top: 8637px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+}
+#ener{
+    position: absolute;
+width: 340px;
+height: 29px;
+left: 95px;
+top: 9118px;
+}
+#ener2{
+    position: absolute;
+width: 976px;
+height: 348px;
+left: 95px;
+top: 9170px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+}
